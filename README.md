@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @madax14
+- 🌱 I’m currently learning how to code.
