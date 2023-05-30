@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @madax14
+- 👋 Hi, I’m Diego
 - 🌱 I’m currently learning how to code.
