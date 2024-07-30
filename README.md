@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Diego
-- 🌱 I’m a junior Data Analystic.
+- 🌱 I’m a junior Data Analyst.
